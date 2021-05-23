@@ -18,12 +18,12 @@ Primary Audience: Families w/ children
 </ol>
 
 <h4>Potential Features</h4>
--Class Dojo-esque
-  *UX should look more fun and kid-friendly*
--Interactive (Like Xbox Insider Program animation when a survey is complete and you gain points) 
--Notification system -- sent to parents when child accepts a chore and finishes a chore
--Scholastic Achievement Bonus
--Checklist of tasks completed for Chores
--A revolving store of appstore games they can use points on
--Daily, Weekly, and Monthly chores
+<li>-Class Dojo-esque</li>
+  <li>*UX should look more fun and kid-friendly*</li>
+<li>-Interactive (Like Xbox Insider Program animation when a survey is complete and you gain points)</li>
+<li>-Notification system -- sent to parents when child accepts a chore and finishes a chore</li>
+<li>-Scholastic Achievement Bonus</li>
+<li>-Checklist of tasks completed for Chores</li>
+<li>-A revolving store of appstore games they can use points on</li>
+<li>-Daily, Weekly, and Monthly chores</li>
 
