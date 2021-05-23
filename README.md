@@ -8,11 +8,11 @@ Primary Audience: Families w/ children
 <h2>***NEEDED IMPROVEMENTS***</h2>
 <hr>
 <ol>
-  <li>Profile Page: Tables that show tasks, due dates, and assigned person</li>
-  <li>Appwide/Webpage-wide: A date holder that updates when vistor arrives (or is persistent)</li>
-  <li>Webpate/App Page: A main dashbord section that houses all the chores/tasks</li>
-  <li>Profile Page: Link to secure points section (and an automatic storage of points awarded)</li>
-  <li>Webpage/App Page: A place for users to spend their points</li>
-  <li>Webpage/App Page: UI and UX aesthetics</li>
+  <li><b>Profile Page:</b> Tables that show tasks, due dates, and assigned person</li>
+  <li><b>Appwide/Webpage-wide:</b> A date holder that updates when vistor arrives (or is persistent)</li>
+  <li><b>Webpate/App Page:</b> A main dashbord section that houses all the chores/tasks</li>
+  <li><b>Profile Page:</b> Link to secure points section (and an automatic storage of points awarded)</li>
+  <li><b>Webpage/App Page:</b> A place for users to spend their points</li>
+  <li><b>Webpage/App Page:</b> UI and UX aesthetics</li>
   <li>Profile Page: Create image badges for rewards and titles</li>
 </ol>
