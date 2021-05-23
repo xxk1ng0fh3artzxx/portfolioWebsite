@@ -16,3 +16,14 @@ Primary Audience: Families w/ children
   <li><b>Webpage/App Page:</b> UI and UX aesthetics</li>
   <li><b>Profile Page:</b> Create image badges for rewards and titles</li>
 </ol>
+
+<h4>Potential Features</h4>
+-Class Dojo-esque
+  *UX should look more fun and kid-friendly*
+-Interactive (Like Xbox Insider Program animation when a survey is complete and you gain points) 
+-Notification system -- sent to parents when child accepts a chore and finishes a chore
+-Scholastic Achievement Bonus
+-Checklist of tasks completed for Chores
+-A revolving store of appstore games they can use points on
+-Daily, Weekly, and Monthly chores
+
