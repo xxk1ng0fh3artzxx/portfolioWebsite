@@ -1,6 +1,6 @@
 # portfolioWebsite
 
-Tentative Name: <b>Chorrible!</b>
+Tentative Name: <h4><b>Chorrible!</b></h4>
 
 Prototyping an app/website that allows parents, employers, etc.. to assign tasks to people
 Primary Audience: Families w/ children
@@ -14,5 +14,5 @@ Primary Audience: Families w/ children
   <li><b>Profile Page:</b> Link to secure points section (and an automatic storage of points awarded)</li>
   <li><b>Webpage/App Page:</b> A place for users to spend their points</li>
   <li><b>Webpage/App Page:</b> UI and UX aesthetics</li>
-  <li>Profile Page: Create image badges for rewards and titles</li>
+  <li><b>Profile Page:</b> Create image badges for rewards and titles</li>
 </ol>
